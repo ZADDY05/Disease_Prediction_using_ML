@@ -1,6 +1,6 @@
 # Disease_Prediction_using_ML
 
-## Hello People!!!
+### Hello People!!!
 This project explores the use of various machine learning algorithms to predict diseases from users (patient) input symptoms.
 
 # Algorithms Explored
@@ -12,4 +12,6 @@ The following algorithms have been explored in code:
 4.Gradient Boosting
 ```
 # Usage
+
+Please make sure to install all dependencies before running the demo, using the following code:
 
