@@ -17,4 +17,7 @@ Please make sure to install all dependencies before running the demo, using the 
 ```
 pip install -r requirements
 ```
-
+# Code Implementation
+- The main.py File has been uploaded for the corresponding project.
++ Make sure to change the directory of the Training and Testing files that has been used in the code
++ Enjoy!!! 
