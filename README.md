@@ -14,4 +14,4 @@ The following algorithms have been explored in code:
 # Dataset
 
 ## Source-1
-### The dataset for this problem used with the main.py script is downloaded from here:
+The dataset for this problem used with the main.py script is downloaded from here:
