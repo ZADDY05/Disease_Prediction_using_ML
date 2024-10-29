@@ -11,7 +11,5 @@ The following algorithms have been explored in code:
 3.Random Forest
 4.Gradient Boosting
 ```
-# Dataset
+# Usage
 
-## Source-1
-The dataset for this problem used with the main.py script is downloaded from here:
