@@ -14,4 +14,7 @@ The following algorithms have been explored in code:
 # Usage
 
 Please make sure to install all dependencies before running the demo, using the following code:
+```
+pip install -r requirements
+```
 
