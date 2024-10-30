@@ -7,9 +7,8 @@ This project explores the use of various machine learning algorithms to predict 
 The following algorithms have been explored in code:
 ```
 1.Naive Bayes 
-2.Decision Tree
+2.SVC 
 3.Random Forest
-4.Gradient Boosting
 ```
 # Usage
 
